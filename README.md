@@ -45,5 +45,5 @@ Tenho explorado todas as etapas do processo de **design centrado no usuário**, 
 Estou em busca de melhorar minhas habilidades de programação em projetos práticos, crescer como designer e desenvolvedor. 
 
 📫 **Vamos conversar?**  
-[LinkedIn](https://linkedin.com/in/murilo-quirino-a2a492339) • [Portfólio](https://seusite.com) 
+[LinkedIn](https://linkedin.com/in/murilo-quirino-a2a492339) 
 
